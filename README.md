@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there 👋, 
+I'm Umang Patel
 
-<!--
-**umang25mei10037-coder/umang25mei10037-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 About Me
+- Name: Umang Patel  
+- Branch: Computer Science and Engineering
+- Course: Integrated M.Tech Computer Science and Engineering in Cyber Security
+- Year: 1st Year Engineering Student  
 
-Here are some ideas to get you started:
+🚀 My Learning Goal
+I aim to develop strong technical skills in programming, cybersecurity, and digital technologies to build a successful career in the tech-driven world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interests
+- 🔐 Cybersecurity  
+- 💻 Programming (C++, Web Development)  
+- 📊 Digital Tools & Productivity  
+- 🌐 Building Professional Online Presence  
+
+🛠️ Tools & Technologies I'm Exploring
+- C++  
+- Canva  
+- Git & GitHub  
+- Google Workspace Tools  
+
+📫 Connect with Me
+- ✉️ Email: umangp2677@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/umang-patel-bb7720363/
+
+---
+
+⭐ Learning step by step and building my future in tech.
