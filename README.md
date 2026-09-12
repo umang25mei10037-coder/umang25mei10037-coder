@@ -5,7 +5,7 @@ I'm Umang Patel
 - Name: Umang Patel  
 - Branch: Computer Science and Engineering
 - Course: Integrated M.Tech Computer Science and Engineering in Cyber Security
-- Year: 1st Year Engineering Student  
+- Year: 2st Year Engineering Student  
 
 🚀 My Learning Goal
 I aim to develop strong technical skills in programming, cybersecurity, and digital technologies to build a successful career in the tech-driven world.
