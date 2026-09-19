@@ -1,109 +1,256 @@
-# 👋 Hi, I'm Umang Patel
+# 👋 Hey, I'm Umang Patel
 
-### 🎓 Computer Science & Cybersecurity Student | Aspiring Cybersecurity Professional
+### `CSE (Cyber Security)` • `Builder` • `Learner` • `Problem Solver`
 
-I'm an **Integrated M.Tech CSE (Cyber Security)** student passionate about learning how technology works, building practical projects, and developing skills in **programming, cybersecurity, and modern digital technologies**.
+> 🔐 **Learning cybersecurity by building, breaking, and understanding how technology works.**
 
----
+I'm an **Integrated M.Tech Computer Science & Engineering (Cyber Security)** student currently exploring the intersection of **software development, cybersecurity, AI, and the web**.
 
-## 🚀 About Me
-
-* 🎓 **Course:** Integrated M.Tech – Computer Science & Engineering (Cyber Security)
-* 📚 **Year:** 2nd Year
-* 🔐 **Focus:** Cybersecurity & Computer Science
-* 💻 **Currently Learning:** Programming, Web Development & Cybersecurity
-* 🌱 **Approach:** Learn → Build → Improve
+I don't want to just collect technologies — I want to understand them, build with them, and gradually turn ideas into working projects.
 
 ---
 
-## 🧠 Areas I'm Exploring
-
-🔐 **Cybersecurity**
-Understanding security concepts, vulnerabilities, and defensive techniques.
-
-💻 **Programming**
-Building my foundation in C++ and learning to solve problems through code.
-
-🌐 **Web Development**
-Exploring how modern websites and web applications are designed and built.
-
-🛠️ **Digital Tools**
-Using tools that improve productivity, collaboration, and project development.
-
----
-
-## 🛠️ Tech & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
----
-
-## 📌 What I'm Working Towards
-
-I'm currently focused on building a strong foundation in:
+## 🧭 My Tech Journey
 
 ```text
-Programming
-    ↓
-Problem Solving
-    ↓
-Web Development
-    ↓
-Cybersecurity
-    ↓
-Practical Projects
-    ↓
-Industry-Ready Skills
+                 ┌──────────────────┐
+                 │   COMPUTER SCIENCE │
+                 └────────┬─────────┘
+                          │
+             ┌────────────┴────────────┐
+             ↓                         ↓
+       💻 DEVELOPMENT              🔐 SECURITY
+             │                         │
+       C++ • Python              Linux • Networking
+       HTML • CSS • JS            Web Security
+             │                    Security Tools
+             └────────────┬────────────┘
+                          ↓
+                    🤖 AI + ML
+                          │
+                          ↓
+                 🚀 REAL PROJECTS
 ```
 
-My goal is to turn what I learn into **real projects, practical experience, and useful solutions**.
+---
+
+## ⚡ Currently Exploring
+
+| Area                 | Technologies / Tools                          |
+| -------------------- | --------------------------------------------- |
+| 💻 Programming       | C++ • Python • JavaScript                     |
+| 🌐 Web               | HTML • CSS • JavaScript • React • Next.js     |
+| 🔐 Cybersecurity     | Linux • Networking • OWASP • Wireshark • Nmap |
+| 🐧 Operating Systems | Linux • Windows • Kali Linux                  |
+| 🤖 AI / ML           | Python • NumPy • Pandas • Scikit-learn        |
+| 🗄️ Databases        | MySQL • MongoDB • PostgreSQL                  |
+| 🔧 Development       | Git • GitHub • VS Code                        |
+| ☁️ Cloud             | AWS • Docker • GitHub Actions                 |
+| 🧪 Security Labs     | TryHackMe • Hack The Box                      |
+| 🎨 Design            | Canva • Figma                                 |
+| 📊 Productivity      | Google Workspace • Notion                     |
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,bash" />
+</p>
+
+### 🌐 Web & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite" />
+</p>
+
+### 🔐 Cybersecurity
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+</p>
+
+**Exploring:**
+`Nmap` • `Wireshark` • `Burp Suite` • `OWASP` • `Metasploit` • `Gobuster` • `John the Ripper`
+
+### 🤖 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+**Exploring:**
+`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `Jupyter`
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### ⚙️ Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</p>
+
+### 🎨 Design & Productivity
+
+`Canva` • `Figma` • `Google Workspace` • `Notion`
+
+---
+
+## 🔐 Cybersecurity Roadmap
+
+```text
+                    CYBERSECURITY
+                         │
+        ┌────────────────┼────────────────┐
+        ↓                ↓                ↓
+    Networking         Linux          Programming
+        │                │                │
+        └────────────────┼────────────────┘
+                         ↓
+                  Web Security
+                         │
+                         ↓
+                Ethical Hacking
+                         │
+                         ↓
+                Digital Forensics
+                         │
+                         ↓
+               Security + AI/ML
+                         │
+                         ↓
+                  Real Projects
+```
+
+---
+
+## 🚀 Things I Want to Build
+
+🔐 **Security Tools**
+Small tools that solve practical cybersecurity problems.
+
+🤖 **AI + Cybersecurity**
+Exploring machine learning for anomaly detection, threat detection, and user behavior analysis.
+
+🌐 **Secure Web Applications**
+Building web applications while learning how to identify and prevent common vulnerabilities.
+
+🧪 **Security Labs**
+Practicing networking, enumeration, web security, and defensive techniques in legal lab environments.
+
+📊 **Security Dashboards**
+Turning security data into useful visual insights.
 
 ---
 
 ## 📂 Featured Projects
 
-🔐 **Cybersecurity Projects**
-Exploring practical cybersecurity concepts through academic and personal projects.
+### 🔐 Insider Threat Detection
 
-🌐 **Web Projects**
-Building and experimenting with modern web interfaces and applications.
+**Machine Learning • User Behavior Analytics • Cybersecurity**
 
-📊 **Data & Digital Projects**
-Working with tools and technologies to understand and solve practical problems.
+A project exploring how behavioral patterns can be used to identify potentially unusual user activity.
 
-> More projects coming as I continue learning and building. 🚀
+`Python` `Pandas` `Scikit-learn` `Isolation Forest` `Cybersecurity`
 
 ---
 
-## 📈 My Learning Philosophy
+### 🛡️ Phishing Awareness Platform
 
-> **Don't just learn the technology — build something with it.**
+**Web Development • Cybersecurity • Awareness**
 
-I believe consistent learning, experimentation, and building projects are the best ways to grow as a developer.
+An interactive platform designed to help users recognize and understand phishing threats.
+
+`HTML` `CSS` `JavaScript` `Cybersecurity`
 
 ---
 
-## 🤝 Let's Connect
+### 🌐 More Projects
 
-<p>
-  <a href="mailto:umangp2677@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/umang-patel-bb7720363/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+I'm continuously building and experimenting with new ideas.
+
+**Explore my repositories →**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umang25mei10037-coder&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umang25mei10037-coder&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 🌱 Currently Learning
+## 🧠 Currently Learning
 
-**C++ • Git & GitHub • Web Development • Cybersecurity**
+```text
+C++              ███████░░░  Problem Solving
+Python           ██████░░░░  Programming
+Linux            █████░░░░░  System Fundamentals
+Networking       █████░░░░░  Security Fundamentals
+Web Development  █████░░░░░  Building Projects
+Cybersecurity    ████░░░░░░  Exploring
+AI / ML          ███░░░░░░░  Exploring
+```
 
-⭐ *Learning step by step. Building consistently. Growing every day.*
+> The bars represent my current learning focus, not proficiency levels.
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Strengthen C++ & problem solving
+* [ ] Build more cybersecurity projects
+* [ ] Learn Linux deeply
+* [ ] Understand computer networking
+* [ ] Learn web application security
+* [ ] Explore AI + cybersecurity
+* [ ] Build a strong GitHub portfolio
+* [ ] Contribute to open source
+* [ ] Participate in hackathons
+* [ ] Gain real-world internship experience
+
+---
+
+## 🌱 My Philosophy
+
+> **Learn the fundamentals. Build real things. Break them safely. Understand why they broke. Build them better.**
+
+I'm still early in my journey, but every repository here represents something I'm learning, experimenting with, or building.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="mailto:umangp2677@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/umang-patel-bb7720363/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+
+### 🔐 Code • Secure • Build • Repeat
+
+**⭐ If you find something interesting in my repositories, feel free to explore!**
+
+</p>
