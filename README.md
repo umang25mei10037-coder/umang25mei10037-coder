@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Umang Patel
+# Hey, I'm Umang Patel
 
 ### `CSE (Cyber Security)` • `Builder` • `Learner` • `Problem Solver`
 
