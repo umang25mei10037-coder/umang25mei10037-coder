@@ -1,136 +1,219 @@
-# 👋 Hi, I'm Umang Patel
+# 👋 Hey, I'm Umang Patel
 
-### `CSE (Cyber Security)` | `Student` | `Tech Enthusiast`
+### `CSE (Cyber Security)` • `Student` • `Builder` • `Continuous Learner`
 
-> 🔐 Learning Cybersecurity, Programming & Technology — one project at a time.
+> 🔐 **Learning cybersecurity by building, experimenting, and understanding how technology works.**
 
-I'm an **Integrated M.Tech Computer Science & Engineering (Cyber Security)** student currently building my fundamentals in programming, cybersecurity, and practical technology.
+I'm an **Integrated M.Tech Computer Science & Engineering (Cyber Security)** student, currently in my **2nd year**.
 
-I enjoy learning by **building projects, experimenting with tools, and understanding how things work behind the scenes.**
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 **Integrated M.Tech CSE — Cyber Security**
-* 📚 **2nd Year Student**
-* 🔐 Interested in **Cybersecurity**
-* 💻 Currently learning **C++ & Python**
-* 🌐 Exploring **Web Development**
-* 🛠️ Learning **Git & GitHub**
-* 🚀 Interested in building practical projects
+I'm building my foundation in **programming, web development, cybersecurity, and machine learning**, while turning what I learn into practical projects.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧭 My Tech Journey
+
+```text
+                    COMPUTER SCIENCE
+                           │
+             ┌─────────────┴─────────────┐
+             ↓                           ↓
+       💻 PROGRAMMING                🌐 WEB
+             │                           │
+       C++ • Python               HTML • CSS • JS
+             │                           │
+             └─────────────┬─────────────┘
+                           ↓
+                    🔐 CYBERSECURITY
+                           │
+                    Linux • Networking
+                           │
+                           ↓
+                     🤖 AI + ML
+                           │
+                           ↓
+                    🚀 REAL PROJECTS
+```
+
+---
+
+## ⚡ What I'm Exploring
+
+| Area               | Technologies / Tools                       |
+| ------------------ | ------------------------------------------ |
+| 💻 Programming     | C++ • Python                               |
+| 🌐 Web Development | HTML • CSS • JavaScript                    |
+| 🔐 Cybersecurity   | Linux • Networking • Security Fundamentals |
+| 🤖 AI / ML         | Python • NumPy • Pandas • Scikit-learn     |
+| 🔧 Development     | Git • GitHub • VS Code                     |
+| 🎨 Design          | Canva                                      |
+| 📊 Productivity    | Google Workspace                           |
+
+---
+
+## 🛠️ My Tech Stack
 
 ### 💻 Programming
 
-`C++` · `Python`
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
 
 ### 🌐 Web
 
-`HTML` · `CSS` · `JavaScript`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### 🔐 Cybersecurity
 
-`Linux` · `Networking` · `Wireshark` · `Nmap`
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
 
-### 🔧 Tools
+**Currently exploring:**
+`Computer Networking` • `Web Security` • `Cybersecurity Fundamentals`
 
-`Git` · `GitHub` · `VS Code` · `Canva`
+### 🤖 AI / Data
 
-### 📊 Python Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-`NumPy` · `Pandas` · `Scikit-learn`
+`NumPy` • `Pandas` • `Scikit-learn`
+
+### ⚙️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🎨 Design & Productivity
+
+`Canva` • `Google Workspace`
 
 ---
 
-## 🔐 My Cybersecurity Journey
+## 🔐 My Cybersecurity Path
 
 ```text
 Programming
      ↓
 Computer Fundamentals
      ↓
-Linux & Networking
+Linux + Networking
      ↓
-Web & Security Fundamentals
+Web Fundamentals
      ↓
-Cybersecurity Projects
+Cybersecurity
      ↓
-Advanced Security + AI
+Security Projects
+     ↓
+AI + Cybersecurity
 ```
 
-I'm focusing on building **strong fundamentals first** instead of trying to learn everything at once.
+I'm focusing on **strong fundamentals first**, then applying them through projects, labs, and practical experimentation.
 
 ---
 
-## 🚀 Projects
+## 🚀 What I'm Building
 
 ### 🔐 Insider Threat Detection
 
-**Python • Machine Learning • Cybersecurity**
+**Machine Learning • User Behavior Analytics • Cybersecurity**
 
-A project focused on detecting unusual user behavior using **User Behavior Analytics (UBA)** and machine learning.
+A cybersecurity project focused on detecting unusual user behavior using **User Behavior Analytics (UBA)** and machine learning.
 
-**Tools:** Python, Pandas, NumPy, Scikit-learn, Isolation Forest
-
----
-
-### 🛡️ Phishing Awareness Project
-
-A cybersecurity awareness project focused on helping users understand and identify **phishing attacks**.
-
-**Focus:** Phishing • Web • Security Awareness
+**Technologies:**
+`Python` `Pandas` `NumPy` `Scikit-learn` `Isolation Forest`
 
 ---
 
-### 💡 More Projects Coming
+### 🛡️ Phishing Awareness
 
-I'm continuously learning and turning what I learn into practical projects.
+A cybersecurity awareness project designed to help users understand and identify **phishing threats** through an interactive web experience.
+
+**Focus:**
+`Cybersecurity` `Web` `Security Awareness`
+
+---
+
+### 🌐 Web & College Projects
+
+I also build smaller projects and experiments while learning **programming, web development, data science, and cybersecurity**.
+
+More projects will appear here as I continue building. 🚀
+
+---
+
+## 🏆 Beyond Coding
+
+### 🚀 Hackathons & Activities
+
+I enjoy learning through **hackathons, college projects, presentations, and team-based challenges**.
+
+These experiences help me improve not only my technical skills but also:
+
+`Problem Solving` • `Teamwork` • `Communication` • `Presentation`
 
 ---
 
 ## 📚 Currently Learning
 
-* C++ & Problem Solving
-* Python
-* Linux Fundamentals
-* Computer Networking
-* Web Development
-* Cybersecurity Fundamentals
-* Machine Learning for Cybersecurity
+```text
+C++                  ███████░░░
+Python               ██████░░░░
+Web Development     █████░░░░░
+Linux               █████░░░░░
+Networking           ████░░░░░░
+Cybersecurity        ████░░░░░░
+AI / ML              ███░░░░░░░
+```
+
+> These represent my **current learning focus**, not proficiency levels.
 
 ---
 
 ## 🎯 My 2026 Goals
 
-* [ ] Strengthen programming fundamentals
-* [ ] Improve problem-solving skills
-* [ ] Learn Linux & networking properly
+* [ ] Strengthen C++ & problem solving
+* [ ] Improve Python fundamentals
+* [ ] Learn Linux properly
+* [ ] Build strong networking fundamentals
+* [ ] Understand web security
 * [ ] Build more cybersecurity projects
-* [ ] Explore ethical hacking
-* [ ] Learn more about AI + Cybersecurity
-* [ ] Build a strong GitHub portfolio
-* [ ] Participate in hackathons & internships
+* [ ] Explore AI + Cybersecurity
+* [ ] Participate in more hackathons
+* [ ] Contribute to open-source projects
+* [ ] Prepare for cybersecurity internships
 
 ---
 
-## 📊 GitHub
+## 🧠 My Learning Philosophy
+
+> **Don't just learn the technology — build something with it.**
+
+I believe the best way to grow is to **learn the fundamentals, build projects, make mistakes, understand them, and improve.**
+
+I'm still early in my journey, and that's exactly what makes the journey exciting.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umang25mei10037-coder&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umang25mei10037-coder&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umang25mei10037-coder&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p>
+<p align="left">
 <a href="mailto:umangp2677@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/umang-patel-bb7720363/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -140,8 +223,8 @@ I'm continuously learning and turning what I learn into practical projects.
 
 <p align="center">
 
-### 🔐 Learn • Build • Secure • Repeat
+### 🔐 Learn • Build • Secure • Grow
 
-⭐ *Learning step by step and building my future in cybersecurity.*
+**⭐ Learning step by step. Building consistently. Growing into cybersecurity.**
 
 </p>
